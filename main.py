@@ -3,7 +3,7 @@
 #Fireball is ineffective against itself, Weak to Counterspell, and effective against Wiz Slap!
 #Counterspell is effective against Fireball, Ineffective against Counterspell, Weak to SLAP!
 #Wizard Slap perishes to fire, is strong against counterspell, and ineffective to SLAP!
-#I hope I dont drop this :')
+#I hope I dont drop this :') TEST!
 
 PLAYER_DEFAULT_NAME = "Bilbo"
 PLAYER_DEFAULT_HEALTH = 5
